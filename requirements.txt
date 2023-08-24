@@ -1,0 +1,14 @@
+Requirements 
+------------
+1. Numpy
+2. Cv2
+3. Pandas
+4. Tensorflow
+5. Keras
+6. Sklearn
+7. Matplotlib
+8. Speech Recognition
+9. PIL
+10. Tkinter
+11. gtts
+12. WordSegment
