@@ -36,4 +36,4 @@ Step 5: Interpret the Results
 - As the program runs, it will process the input video frames using the trained model. 
 - The recognized gestures will be displayed as output, either on the console or in a graphical user interface, depending on how the program is designed.
 
-
+# Refer Output Screenshots pdf
